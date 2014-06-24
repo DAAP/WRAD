@@ -2,11 +2,11 @@
 
 Copyright (C) 2014 Wilma Bucci and Bernard Maskit
 
-Contact Information: Wilma Bucci: wbucci@optonline.net 
-		     Bernard Maskit: daap@optonline.net
+Contact Information: Wilma Bucci: <wbucci@optonline.net>  
+		     Bernard Maskit: <daap@optonline.net>  
 
-**Note: The Weighted Referential Activity Dictionary (WRAD) is protected **
-**under copyright law and is not separately licensed.**
+**Note: The Weighted Referential Activity Dictionary (WRAD) is protected 
+under copyright law and is not separately licensed.**
 
 The Weighted Referential Activity Dictionary (WRAD) is a list of words with
 weights that is run using The Discourse Attributes Analysis Program (DAAP) to
